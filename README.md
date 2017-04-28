@@ -4,6 +4,7 @@
 问题：
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool failed with exit code 255
 
+
 Restart Xcode - Didn't Work
 Cleaning the App - Didn't Work
 Deleting the derivedData - Didn't Work
